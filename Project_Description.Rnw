@@ -1,0 +1,22 @@
+\documentclass{article}
+
+\title{Deforestation and South East Asia}
+\author{Madison and Marc}
+
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+
+\subsection{Objectives}
+
+Each student will analyze different sections / regions of SE Asia and determine the amounts of deforestion, estimate Palm plantations area and fire frequency and area -- and calculate the carbon loss from the forests and habitat loss for endangered XX?
+
+\subsection{Methods}
+
+using QGIS or ArcMap or ???
+
+
+\end{document}
