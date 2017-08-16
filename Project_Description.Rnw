@@ -1,7 +1,7 @@
 \documentclass{article}
 
 \title{Deforestation and South East Asia}
-\author{Madison and Marc}
+\author{Madison Vorva and Marc Los Huertos}
 
 
 \begin{document}
