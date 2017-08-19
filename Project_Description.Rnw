@@ -17,6 +17,7 @@ Each student will analyze different sections / regions of SE Asia and determine 
 
 NOTES from Madi:
 
+
 Global Forest Watch:
 \url{http://www.globalforestwatch.org/}
 
@@ -29,6 +30,10 @@ Forest monitoring designed for action
 \subsection{Methods}
 
 using QGIS or ArcMap or ???
+
+Madi suggests we use ArcGIS (ESRI's web based platform). 
+
+Question: Does CUC have student accounts for this?  Marc has emailed Warren to find out.
 
 
 \end{document}
