@@ -31,7 +31,7 @@ Forest monitoring designed for action
 
 using QGIS or ArcMap or ???
 
-Madi suggests we use ArcGIS (ESRI's web based platform). 
+Madi suggests we use ArcGIS (ESRI's web based platform). \url{http://claremont.maps.arcgis.com/home/}
 
 Question: Does CUC have student accounts for this?  Marc has emailed Warren to find out.
 
