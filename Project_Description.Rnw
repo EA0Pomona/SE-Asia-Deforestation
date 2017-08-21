@@ -33,7 +33,9 @@ We (Madi? :-)) have created a grid of southeast Asia that we will sample from fo
 
 Let's say there will be 1,000,000 grids, each each with about 5 square km to analyze. Students do 5 each. 5*5*15 students, 45 km2 that a sampling rate of 0.0075\%. That would be pretty respectable, for a class project!
 
-Comparing LandSAT images between 19XX and 2017, students will draw polygons around palm plantations and identify recently burned areas. Students will also measure the total land area in the grid. For each grid sample students will record information to fill out Table~\ref{tab:dataentry}.
+Comparing LandSAT images? between 19XX and 2017, students will draw polygons around palm plantations and identify recently burned areas. Students will also measure the total land area in the grid. For each grid sample students will record information to fill out Table~\ref{tab:dataentry}.
+
+Perhaps we compare what global forest watch has and what we come up?
 
 \begin{table}[h]
 \caption{Data Entry Table}
