@@ -29,6 +29,49 @@ Forest monitoring designed for action
 
 \subsection{Methods}
 
+We (Madi? :-)) have created a grid of southeast Asia that we will sample from for the project. Each student will recieve XX random locations from the grid to analyze. 
+
+Let's say there will be 1,000,000 grids, each each with about 5 square km to analyze. Students do 5 each. 5*5*15 students, 45 km2 that a sampling rate of 0.0075\%. That would be pretty respectable, for a class project!
+
+Comparing LandSAT images between 19XX and 2017, students will draw polygons around palm plantations and identify recently burned areas. Students will also measure the total land area in the grid. For each grid sample students will record information to fill out Table~\ref{tab:dataentry}.
+
+\begin{table}[h]
+\caption{Data Entry Table}
+\label{tab:dataentry}
+\begin{tabular}{|l|c|c|c|} \hline
+GRID ID  & Area Analyze (km2)  &  Palm (km2) &  Recently Burned (km2) \\ \hline\hline
+-9999     & XX    & XX  & XX  \\
+
+\hline
+\end{tabular}
+\end{table}
+<<>>=
+
+@
+
+\section{Results}
+
+Students will combine their results to create a table that includes the following information:
+
+\begin{table}[h]
+\begin{tabular}{lcccc} \hline
+Country   & Total Area (km2)  & Area Analyzed  & \% Palm & \% Recently Burned \\ \hline\hline
+
+Cambodia & 181,035 &&& \\
+Indonesia   & 1,904,569 & & & \\
+Loas & 236,800 &&&\\
+Malaysia   & 330,803 & & & \\
+Myanmar & 	676,578 &&& \\
+Philippines   & 300,000 & & & \\
+Singapore & 	716 &&& \\
+Thailand    & 513,120 &&& \\
+Vietnam   & 331,212 & & & \\
+\hline
+
+
+\end{tabular}
+\end{table}
+
 using QGIS or ArcMap or ???
 
 Madi suggests we use ArcGIS (ESRI's web based platform). \url{http://claremont.maps.arcgis.com/home/}
